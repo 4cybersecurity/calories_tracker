@@ -1,10 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'activitiesScreen.dart';
 import 'homeScreen.dart';
 import 'goalsScreen.dart';
-import 'package:calories_tracker/components/commonFunctions.dart' as User;
 
 
 
